@@ -1,0 +1,35 @@
+{
+  "name": "alok-aryal-rose-pine",
+  "displayName": "Alok Aryal Rose Pine",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "AlokAryal",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saysan777/rose-pine-personal"
+  },
+  "keywords": [
+    "Alok",
+    "alok theme",
+    "theme alok",
+    "rosepinealoktheme",
+    "rosepine",
+    "rose pine"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alok Aryal Rose Pine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alok Aryal Rose Pine-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
